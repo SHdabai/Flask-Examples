@@ -1,0 +1,36 @@
+web 阶段
+Python 基础
+数据库：Python redis
+网页：html+js+jquery+bootstrap
+vue：前后分离
+
+web后端：网站
+
+Python优势：建站块，
+劣势：不适用于大型网站
+
+联合项目：
+h5 + Python
+
+flask
+轻量，灵活，根据需要定制
+
+
+tornado  与flask相似，但能解决c10k 问题
+
+
+
+
+django
+
+
+
+
+
+
+
+
+
+
+
+
